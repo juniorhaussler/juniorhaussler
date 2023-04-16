@@ -1,5 +1,5 @@
 <h1 align="center">Olá sou Osmar Ramos Junior</h1>
-<h3 align="center">sou graduado em Tecnologia em Processamento de Dados e pós-graduado em Análise de Sistemas.</h3>
+<h3 align="center">sou Desenvolvedor Web Full Stack, graduado em Tecnologia em Processamento de Dados e pós-graduado em Análise de Sistemas.</h3>
 
 - Email: **juniorhaussler@gmail.com**
 
